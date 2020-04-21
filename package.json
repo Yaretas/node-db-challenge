@@ -4,6 +4,9 @@
   "description": "## Description",
   "main": "index.js",
   "dependencies": {
+    "cleaner": "^2.0.0-alpha",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
     "knex": "^0.21.0",
     "node": "^13.13.0",
     "nodemon": "^2.0.3",
